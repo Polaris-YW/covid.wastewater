@@ -1,5 +1,5 @@
 # Project
-
+this repo houses test code from the SISMID 2024 course Hitchhikers Guide to reproducibility.
 ## Generic Project Directory
 
 This is a generic project template. It might help to add a brief description.
