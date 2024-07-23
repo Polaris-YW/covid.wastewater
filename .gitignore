@@ -1,13 +1,9 @@
-## RStudio files
-.Rproj.user
-
-## History
-.Rhistory
-
-## data directories and files
-data
+.Renviron
+*.pdf
 .DS_Store
-analysis/*_cache/
-drafts/*_cache/
-.RData
-.Ruserdata
+data/*
+.Rhistory
+.Rproj.user
+drafts/*
+literature/*
+*.png
